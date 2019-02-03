@@ -134,11 +134,6 @@
             "caching": "ReadWrite",
             "createOption": "FromImage"
           },
-          "dataDisks": [
-            {
-              "diskSizeGB": 128,
-              "lun": 0,
-              "createOption": "Empty"
             }
           ]
 
